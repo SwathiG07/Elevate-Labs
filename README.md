@@ -118,8 +118,6 @@ Successfully completed the **Data Analyst Internship at Elevate Labs**, gaining 
 
 ---
 
----
-
 ##  Note
 
 This repository showcases internship assignments and practical implementation of data analytics concepts.
