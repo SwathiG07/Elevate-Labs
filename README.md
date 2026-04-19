@@ -1,6 +1,6 @@
-# 📊 Elevate Labs – Data Analyst Internship
+#  Elevate Labs – Data Analyst Internship
 
-## 🏢 Internship Overview
+##  Internship Overview
 
 This repository contains all tasks completed during my **Data Analyst Internship at Elevate Labs**, where I worked on real-world datasets and business problems using data analysis, visualization, and SQL techniques.
 
@@ -10,7 +10,7 @@ This repository contains all tasks completed during my **Data Analyst Internship
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The internship focused on developing practical skills in:
 
@@ -22,7 +22,7 @@ The internship focused on developing practical skills in:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Programming:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
@@ -32,7 +32,7 @@ The internship focused on developing practical skills in:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Elevate-Labs/
@@ -47,9 +47,9 @@ Elevate-Labs/
 
 ---
 
-## 📌 Task Highlights
+##  Task Highlights
 
-### 🔹 Task 1: Exploratory Data Analysis (EDA)
+###  Task 1: Exploratory Data Analysis (EDA)
 
 * Cleaned and processed multiple datasets (Netflix, Sales, Marketing)
 * Identified trends and patterns using visualization techniques
@@ -57,7 +57,7 @@ Elevate-Labs/
 
 ---
 
-### 🔹 Task 2: Power BI Dashboard
+###  Task 2: Power BI Dashboard
 
 * Built interactive dashboards for business insights
 * Worked on Superstore dataset
@@ -65,7 +65,7 @@ Elevate-Labs/
 
 ---
 
-### 🔹 Task 3: SQL Analysis
+###  Task 3: SQL Analysis
 
 * Wrote SQL queries for data extraction and analysis
 * Used joins, aggregations, and filtering techniques
@@ -73,14 +73,14 @@ Elevate-Labs/
 
 ---
 
-### 🔹 Task 4: Sales Performance Dashboard
+###  Task 4: Sales Performance Dashboard
 
 * Developed dashboard and presentation
 * Communicated insights effectively using visuals
 
 ---
 
-### 🔹 Task 5: Machine Learning (Titanic Dataset)
+###  Task 5: Machine Learning (Titanic Dataset)
 
 * Performed preprocessing and feature engineering
 * Built predictive models
@@ -88,7 +88,7 @@ Elevate-Labs/
 
 ---
 
-### 🔹 Task 6: SQL + Excel Analysis
+###  Task 6: SQL + Excel Analysis
 
 * Analyzed online store dataset
 * Combined SQL queries with Excel analysis
@@ -96,14 +96,14 @@ Elevate-Labs/
 
 ---
 
-### 🔹 Task 7: SQL in Python
+###  Task 7: SQL in Python
 
 * Executed SQL queries within Python environment
 * Demonstrated integration of databases with Python workflows
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 * Hands-on experience with real-world datasets
 * Improved analytical and problem-solving skills
@@ -112,18 +112,14 @@ Elevate-Labs/
 
 ---
 
-## 📜 Certification
+##  Certification
 
 Successfully completed the **Data Analyst Internship at Elevate Labs**, gaining practical exposure to real-world data analysis tasks.
 
 ---
 
-## 👤 Author
-
-**Swathi Sri Gedela**
-
 ---
 
-## 📌 Note
+##  Note
 
 This repository showcases internship assignments and practical implementation of data analytics concepts.
